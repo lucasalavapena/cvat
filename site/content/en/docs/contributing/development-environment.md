@@ -74,7 +74,7 @@ weight: 2
   >
   > Read this article [Node Sass does not yet support your current environment](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-- Open new terminal (Ctrl + Shift + T), run Visual Studio Code from the virtual environment
+- Open a new terminal (Ctrl + Alt + T), run Visual Studio Code from the virtual environment
 
   ```sh
   cd .. && source .env/bin/activate && code
